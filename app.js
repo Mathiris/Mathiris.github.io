@@ -1,4 +1,7 @@
-const sounds = ['SLTVLAD','Baited','baki fourchetted','Blitz OOF','Ah bah jeffed','OOOOOOOFFF',
+const sounds = ['SLTVLAD',
+'SLTFAB',
+'SLTMAT',
+'Baited','baki fourchetted','Blitz OOF','Ah bah jeffed','OOOOOOOFFF',
 'ça clique au hasard',
 'Chevaled',
 'CLIQUE',
@@ -24,9 +27,36 @@ const sounds = ['SLTVLAD','Baited','baki fourchetted','Blitz OOF','Ah bah jeffed
 'ROBERTO DI RANCHO',
 'who makes the malines',
 'yes yes common lezgo',
-'ypeuxpasvoir'];
-
-
+'ypeuxpasvoir',
+"Benoit Hamonded",
+"BLITZSTREAMED",
+'Va apprendre a calculer frero',
+'COMMON',
+'COMMON JTE KEN',
+'DELARGED',
+'EBALLISTED',
+'ECO +',
+'ENFONCED',
+'FOU B QUATRO',
+'JTE KEN LE GANGE',
+'Jean Michel Enfoiré',
+'JTE KEN v2',
+'Juvamined',
+'Los barbeleros',
+'vu le Mat',
+'Merde Liquide',
+'Oh raja song',
+'peut importe les orifices',
+'Il a pas vu le frero',
+'Picassoed',
+'Pleutachao',
+'Prosterne toi',
+'quelques barbelés',
+'SSSALE',
+'ticket de metroed',
+'Tour C OUNO',
+'Toutoured',
+'Viser la nulle'];
 
 sounds.forEach((sound) => {
     const btn = document.createElement('button');
